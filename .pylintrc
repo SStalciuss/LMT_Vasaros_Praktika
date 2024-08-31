@@ -1,0 +1,11 @@
+[MASTER]
+disable=
+    C0114, # missing-module-docstring
+    C0115, # missing-class-docstring
+    C0116, # missing-function-docstring
+    C0103, # invalid-name
+    C0301, # line-too-long
+    W0719, # broad-exception-raised
+    W0707, # raise-missing-from
+    W0718, # broad-exception-caught
+    W0622, # redefined-builtin

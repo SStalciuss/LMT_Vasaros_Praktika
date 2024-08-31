@@ -1,0 +1,7 @@
+# Images are in blue green red format
+# If all values are equal - og gray scale pixel
+# If red == blue > green - pink cross
+# If red == blue < green - green border
+# If high green (more than 200) and red blue are less - blue and green intersection
+# If green == blue and > red - light blue border
+# If green == blue and < red - red border
